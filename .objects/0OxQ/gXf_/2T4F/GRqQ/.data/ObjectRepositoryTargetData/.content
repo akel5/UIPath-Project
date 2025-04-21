@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="G82YRf03PkuIYFVB8Pg-ig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="35a2e739-0242-4096-ab66-04affd175939" CvTextArea="650, 449, 75, 18" CvTextArgument="Address" CvType="Text" DesignTimeRectangle="650, 449, 75, 18" DesignTimeScaleFactor="1.5" ElementType="Text" Guid="b85f8f8d-cc44-42d1-b22c-9ad3d49e164f" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Rpa Challenge - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c5f520ad613a841d9c494b87ca093d93.png" xmlns="">0WArXpnSMiUWoIoCqF8_eCQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
