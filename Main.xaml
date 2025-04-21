@@ -195,7 +195,7 @@
                                       </sap:WorkflowViewStateService.ViewState>
                                       <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" EmptyField="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DisplayName="Type Into 'Chrome_RenderWidgetHost...'" sap:VirtualizedContainerService.HintSize="382,189.33333333333334" sap2010:WorkflowViewState.IdRef="TypeInto_1" Text="[CurrentRow(&quot;FirstName&quot;).ToString()]">
                                         <ui:TypeInto.Target>
-                                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="46a2a3f2-1a92-4609-992b-030c088babf5" InformativeScreenshot="5d46ad67070eb06f442e847761807397" Selector="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Rpa Challenge - Google Chrome' /&gt;&lt;ctrl name='Rpa Challenge' role='document' /&gt;&lt;ctrl idx='12' role='editable text' /&gt;">
+                                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="46a2a3f2-1a92-4609-992b-030c088babf5" InformativeScreenshot="5d46ad67070eb06f442e847761807397" Selector="&lt;webctrl ng-reflect-name='labelFirstName' tag='INPUT' /&gt;">
                                             <ui:Target.TimeoutMS>
                                               <InArgument x:TypeArguments="x:Int32" />
                                             </ui:Target.TimeoutMS>
@@ -207,7 +207,7 @@
                                       </ui:TypeInto>
                                       <ui:TypeInto AlterIfDisabled="{x:Null}" ClickBeforeTyping="{x:Null}" DelayBefore="{x:Null}" DelayBetweenKeys="{x:Null}" DelayMS="{x:Null}" EmptyField="{x:Null}" SendWindowMessages="{x:Null}" SimulateType="{x:Null}" Activate="True" DisplayName="Type Into 'Chrome_RenderWidgetHost...'" sap:VirtualizedContainerService.HintSize="382,189.33333333333334" sap2010:WorkflowViewState.IdRef="TypeInto_2" Text="[CurrentRow(&quot;Email&quot;).ToString()]">
                                         <ui:TypeInto.Target>
-                                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="d10a737b-a1c8-4f89-844d-19f26bd3d4be" InformativeScreenshot="4f9c816fac62790418f2cd9d59a87d3a" Selector="&lt;webctrl name='3bhdU' tag='INPUT' /&gt;">
+                                          <ui:Target ClippingRegion="{x:Null}" Element="{x:Null}" Id="d10a737b-a1c8-4f89-844d-19f26bd3d4be" InformativeScreenshot="4f9c816fac62790418f2cd9d59a87d3a" Selector="&lt;webctrl ng-reflect-name='labelEmail' tag='INPUT' /&gt;">
                                             <ui:Target.TimeoutMS>
                                               <InArgument x:TypeArguments="x:Int32" />
                                             </ui:Target.TimeoutMS>
